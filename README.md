@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Veronica2484
 - 👀 I’m interested in learn 
 - 🌱 I’m currently learning React, Node js, Express js
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can drop me a message here or LinkedIn
+- 📫 You can drop me a message here or on LinkedIn
+
 
 <!---
 Veronica2484/Veronica2484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
